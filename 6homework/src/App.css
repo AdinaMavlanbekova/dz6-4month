@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+form {
+  max-width: 600px;
+  margin: 50px auto;
+}
+
+label {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+input {
+  outline: none;
+}
+.error {
+  border: 1px solid red;
+}
+table {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+button {
+  margin-left: 20px;
+}
